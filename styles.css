@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Estilos del título */
+h1 {
+    color: #333;
+    font-size: 24px;
+}
+
+/* Estilos de los párrafos */
+p {
+    color: #666;
+    line-height: 1.5;
+}
+
+/* Estilos de los enlaces */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
