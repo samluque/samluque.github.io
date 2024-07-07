@@ -1,2 +1,0 @@
-# samluque.github.io
-hola
