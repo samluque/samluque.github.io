@@ -112,24 +112,7 @@ input, select, textarea {
 /* Type */
 
 	html {
-		font-size: 14pt; /* Reduced from 16pt for less zoom */
-	}
-
-	/* Extra large desktop screens - make even smaller */
-	@media screen and (min-width: 1681px) {
-		html {
-			font-size: 13pt; /* Even smaller for very large screens */
-		}
-		
-		#header .logo {
-			width: 4.5rem;
-			height: 4.5rem;
-			line-height: 4.5rem;
-		}
-		
-		#header .logo .icon:before {
-			font-size: 1.5rem;
-		}
+		font-size: 16pt;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -1308,9 +1291,9 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5rem; /* Reduced from 5.5rem for smaller logo */
-			height: 5rem; /* Reduced from 5.5rem for smaller logo */
-			line-height: 5rem; /* Reduced from 5.5rem for smaller logo */
+			width: 5.5rem;
+			height: 5.5rem;
+			line-height: 5.5rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
 		}
